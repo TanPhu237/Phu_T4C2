@@ -3,11 +3,20 @@
 * I am 20 years old this year. I was born and raised in Tien Giang
 * I am a 3rd year student at the university of foreign languages ​​and information technology with a major in software technology 
 * I am a software engineer with passion for building and optimizing web applications. With 3 years of experience in this field, I am always ready to learn new technologies and improve my skills to bring value to projects.
-# 🛠 Skills
+# 🎨 Hobbies
+- 📚 **Reading**: I love books about technology, psychology and personal development.
+- 💻 **Discover new technology**: Always keep up to date with new trends and technologies such as AI, Blockchain and IoT.
+- 🌍 **Travel**: Likes to explore new cultures and experience cuisines around the world.
+- 🎮 **Gaming**: I like to play strategy and role-playing games (RPG) in my free time.
+- 🎶 **Music**: Music helps me relax and concentrate, especially lofi and classical music.
+# 🔧 Skills
 ### Programming language
 * JavaScript: Use in web development with React and Node.js
 * Python: Used for data analysis and back-end development
 * Java: Used for enterprise and back-end applications
+* C#: Used in application development on Microsoft platforms and game development with Unity.
+* PHP: Mainly used in web development and creating dynamic pages
+* TypeScript: Extends JavaScript by adding static types, often used in large applications with Angular.
 ### Technology & Tools
 * Front-end: HTML, CSS, JavaScript, React, type
 * Back-end: Node.js, Express, Django
@@ -50,19 +59,20 @@
 * Role: Leader, full stack
 * Expected completion: December 2024
 # 🌱 Future Plans
- 🎯 Career goal: Become an expert in software development, especially in developing large-scale enterprise applications.
+- 🎯 Career goal: Become an expert in software development, especially in developing large-scale enterprise applications.
  
- 🕒 Intended project: Explore more about artificial intelligence and develop AI applications.
+- 🕒 Intended project: Explore more about artificial intelligence and develop AI applications.
 # 📫Contact
 
-📧 Email: phudt777@gmail.com
+- 📧 Email: phudt777@gmail.com
 
-📱 Số điện thoại: +84 123 456 789
+- 📱 Số điện thoại: +84 123 456 789
 
-🌐 LinkedIn: linkedin.com/in/dangtanphu
+- 🌐 LinkedIn: linkedin.com/in/dangtanphu
 
-💻 GitHub: github.com/tanfus237
-# 🙏 Thank
+- 💻 GitHub: github.com/tanfus237
+
+# 💖 Thank 💖
 Thank you for visiting my diagram GitHub! If you find my projects useful or want to stay connected, hit the "Follow" button and 🌟 Star the projects you love!
 
 "Your every follow and Star is a great motivation for me to continue growing and sharing interesting things!"
