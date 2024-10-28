@@ -1,25 +1,8 @@
 # Hi, I'm Đặng Tấn Phú 👋
-### 👨‍💻About me
+# 👨‍💻About me
 * I am 20 years old this year. I was born and raised in Tien Giang
 * I am a 3rd year student at the university of foreign languages ​​and information technology with a major in software technology 
 * I am a software engineer with passion for building and optimizing web applications. With 3 years of experience in this field, I am always ready to learn new technologies and improve my skills to bring value to projects.
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/romankh3/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
-</p>
-
-
-### 📫Contact
-📧 Email: phudt777@gmail.com
-
-📱 Số điện thoại: +84 123 456 789
-
-🌐 LinkedIn: linkedin.com/in/dangtanphu
-
-💻 GitHub: github.com/tanfus237
 # 🛠 Skills
 ### Programming language
 * JavaScript: Use in web development with React and Node.js
@@ -30,10 +13,16 @@
 * Back-end: Node.js, Express, Django
 * Database: MySQL, MongoDB, PostgreSQL
 * Support tools: Git, Docker, VSCode, Postman
+<p align='center'>
+   <a href="https://github.com/romankh3/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
+</p>
+  
 ### Other skills
 * Project management according to Agile/Scrum model
 * Database design and query optimization
 * System analysis and design
+
 
 # 🎓 Degree
 * Temporarily not available
@@ -64,6 +53,15 @@
  🎯 Career goal: Become an expert in software development, especially in developing large-scale enterprise applications.
  
  🕒 Intended project: Explore more about artificial intelligence and develop AI applications.
+# 📫Contact
+
+📧 Email: phudt777@gmail.com
+
+📱 Số điện thoại: +84 123 456 789
+
+🌐 LinkedIn: linkedin.com/in/dangtanphu
+
+💻 GitHub: github.com/tanfus237
 # 🙏 Thank
 Thank you for visiting my diagram GitHub! If you find my projects useful or want to stay connected, hit the "Follow" button and 🌟 Star the projects you love!
 
